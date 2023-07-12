@@ -3,7 +3,7 @@ import Meals from './components/Meals/Meals';
 import CartProvider from './store/CartProvider';
 
 function App() {
-  // some changes
+  // some changes in feature
   return (
     <CartProvider>
       <Header />
