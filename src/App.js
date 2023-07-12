@@ -5,6 +5,7 @@ import CartProvider from './store/CartProvider';
 function App() {
   // some changes
   // extra changes
+  //more
   return (
     <CartProvider>
       <Header />
