@@ -6,6 +6,7 @@ function App() {
   // some changes
   // extra changes
   //more my changes
+  // contribution
   return (
     <CartProvider>
       <Header />
